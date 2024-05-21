@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+#root {
+  max-width: 1280px;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.line-container{
+  background-color: rgb(226, 226, 233);
+  place-items: center;
+  padding: 100px;
+}
+.line-container Line{
+  width:auto;
+}
+.bar-container{
+  background-color: rgb(243, 238, 238);
+  padding: 100px;
+}
+.bar-container Bar{
+  width:auto;
+}
+.pie-container{
+  background-color: rgb(243, 238, 238);
+  padding: 100px;
+}
+
+
