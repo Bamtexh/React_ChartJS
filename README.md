@@ -5,14 +5,14 @@
 npx create-react-app my-chart-app
 
 2. Install Dependencies:
-*change into your project directory:
+* change into your project directory:
    cd my-chart-app
 
-*Install the necessary dependencies (Chart.js and react-chartjs-2):
-*npm install chart.js react-chartjs-2
+* Install the necessary dependencies (Chart.js and react-chartjs-2):
+* npm install chart.js react-chartjs-2
 
 3. Set Up Your Charts:
-*Create your charts using the data you have (from the Data.js file or any other source).
+* Create your charts using the data you have (from the Data.js file or any other source).
 
 *Import the relevant components from react-chartjs-2:
 JavaScript
