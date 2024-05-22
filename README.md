@@ -14,7 +14,7 @@ npx create-react-app my-chart-app
 3. Set Up Your Charts:
 * Create your charts using the data you have (from the Data.js file or any other source).
 
-*Import the relevant components from react-chartjs-2:
+* Import the relevant components from react-chartjs-2:
 JavaScript
 
 
